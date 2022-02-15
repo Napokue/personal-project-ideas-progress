@@ -14,4 +14,4 @@ Dropped | :no_entry: |
 # Graphics
 Project | Status | Information |
 -|-|-|
-Orthographic projection  | :cloud: | Research how orthographic projection works |
+[Orthographic projection](https://en.wikipedia.org/wiki/Orthographic_projection)  | :cloud: | Research how orthographic projection works |
