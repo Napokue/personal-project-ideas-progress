@@ -1,7 +1,7 @@
 # project-ideas
 Personal repository to store and track project ideas.
 
-#Legend 
+# Legend 
 Status | Displayed As |
 --------------- |  ----- |
 No Status Yet | :cloud: |
