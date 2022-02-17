@@ -1,5 +1,5 @@
-# project-ideas
-Personal repository to store and track project ideas.
+# personal-project-ideas-progress
+Personal repository to store and track project ideas and their progress.
 
 # Legend 
 Status | Displayed As |
