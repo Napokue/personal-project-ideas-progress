@@ -15,3 +15,8 @@ Dropped | :no_entry: |
 Project | Status | Information |
 -|-|-|
 [Orthographic projection](https://en.wikipedia.org/wiki/Orthographic_projection)  | :cloud: | Research how orthographic projection works |
+
+# Simulation
+Project | Status | Information |
+-|-|-|
+[Evolusim](https://github.com/Napokue/evolusim) | :mag_right: and :construction: | Simulating creatures with neural networks, mutation, and natural selection |
