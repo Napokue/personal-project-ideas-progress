@@ -20,3 +20,8 @@ Project | Status | Information |
 Project | Status | Information |
 -|-|-|
 [Evolusim](https://github.com/Napokue/evolusim) | :mag_right: and :construction: | Simulating creatures with neural networks, mutation, and natural selection |
+
+# Tools
+Project | Status | Information |
+-|-|-|
+[Debugger](https://en.wikipedia.org/wiki/Debugger) | :mag_right: | Basic C# debugger |
