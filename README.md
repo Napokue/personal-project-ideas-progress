@@ -19,6 +19,7 @@ Project | Status | Information |
 # Simulation
 Project | Status | Information |
 -|-|-|
+[Chip-8](https://github.com/Napokue/chip-8) | :mag_right: and :construction: | Chip-8 emulator |
 [Evolusim](https://github.com/Napokue/evolusim) | :mag_right: and :construction: | Simulating creatures with neural networks, mutation, and natural selection |
 
 # Tools
