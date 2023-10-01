@@ -4,11 +4,11 @@ Personal repository to store and track project ideas and their progress.
 # Legend 
 Status | Displayed As |
 --------------- |  ----- |
-No Status Yet | :cloud: |
-Researching | :mag_right: |
-In Progress | :construction: |
-On Hold | :watch: |
-Dropped | :no_entry: |
+No Status Yet | ☁️ |
+Researching | 🔎 |
+In Progress | 🚧 |
+On Hold | ⌚ |
+Dropped | ⛔ |
 
 
 # Graphics
@@ -19,10 +19,10 @@ Project | Status | Information |
 # Simulation
 Project | Status | Information |
 -|-|-|
-[Chip-8](https://github.com/Napokue/chip-8) | :mag_right: and :construction: | Chip-8 emulator |
-[Evolusim](https://github.com/Napokue/evolusim) | :mag_right: and :construction: | Simulating creatures with neural networks, mutation, and natural selection |
+[Chip-8](https://github.com/Napokue/chip-8) | 🔎 and 🚧 | Chip-8 emulator |
+[Evolusim](https://github.com/Napokue/evolusim) | ⌚ | Simulating creatures with neural networks, mutation, and natural selection |
 
 # Tools
 Project | Status | Information |
 -|-|-|
-[Debugger](https://en.wikipedia.org/wiki/Debugger) | :mag_right: | Basic C# debugger |
+[Debugger](https://en.wikipedia.org/wiki/Debugger) | ⌚ | Basic debugger |
